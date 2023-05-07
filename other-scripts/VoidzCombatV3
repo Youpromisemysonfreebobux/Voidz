@@ -399,7 +399,7 @@ SliderValue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 SliderValue.BackgroundTransparency = 1.000
 SliderValue.Size = UDim2.new(0, 35, 0, 15)
 SliderValue.Font = Enum.Font.SourceSansSemibold
-SliderValue.Text = "6"
+SliderValue.Text = "9"
 SliderValue.TextColor3 = Color3.fromRGB(255, 255, 255)
 SliderValue.TextSize = 14.000
 
